@@ -52,7 +52,6 @@ function rollMany(game: BowlingGame, rolls: number, pins: number) {
     game.roll(pins);
   }
 
-  return game;
 }
 
 function rollSpare(game: BowlingGame) {
