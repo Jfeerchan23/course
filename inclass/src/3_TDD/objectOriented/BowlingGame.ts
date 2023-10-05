@@ -1,4 +1,5 @@
 export class BowlingGame {
+  private pins: number[];
 
   private throws: number[];
 
